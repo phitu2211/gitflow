@@ -1,2 +1,3 @@
 this is master
 add task 2
+this is conflic
